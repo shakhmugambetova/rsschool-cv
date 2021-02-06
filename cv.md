@@ -1,4 +1,5 @@
-zhansaya shakhmugambetova
+Zhansaya Shakhmugambetova
+
 Contacts:
 phone:87476229665
 e-mail: shakhmugambetova@gmail.com
@@ -12,7 +13,7 @@ Skills
 - Free user MS Office (Word, Excel)
 - Tools and programming languages, environments and packages (C ++, Matlab, Fortran, HTML, MatLab, 3DMax, Linux OS, MySQL, Html, CSS, C #)
 
-Example o code
+Example of code
 -----------------------------
 ```javascript
 var mySwiper = new Swiper('.swiper-container', {
@@ -46,6 +47,7 @@ menuBtn.classList.toggle('menu-btn-active')
 Experience
 -----------------------
 
+
 Education
 ----------------
 * March 2019 - present as  private tutor
@@ -65,4 +67,4 @@ Human Languages
 
 Certificates
 -----------
-International English Language Testing System (IELS-6.5)
+International English Language Testing System (IELTS-6.5)
